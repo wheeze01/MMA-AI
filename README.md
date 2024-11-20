@@ -1,1 +1,1 @@
-# MMA-AI
+# MMD-AI
